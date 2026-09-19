@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=190&section=header&text=YiYang%20Xiong&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%40%20CUHK-Shenzhen&descAlignY=56&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=190&section=header&text=Yiyang%20Xiong&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%40%20CUHK-Shenzhen&descAlignY=56&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+software%2C+exploring+AI+%26+machine+learning;Learning+through+projects%2C+experiments%2C+and+iteration)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@
 🎯 Goal: turn ideas into well-documented, reliable, and useful software
 ```
 
-I work mainly with **Java, Python, and C++**, and I also use **TypeScript/React** for web projects. I am especially interested in applying AI and machine learning to real problems while continuing to strengthen my foundations in algorithms and software design.
+I work mainly with **Java, Python, C++, and Swift**. I am especially interested in applying AI and machine learning to real problems while continuing to strengthen my foundations in algorithms and software design.
 
 ## Tech Stack
 
@@ -29,11 +29,11 @@ I work mainly with **Java, Python, and C++**, and I also use **TypeScript/React*
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,python,cpp,ts,html,css&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,cpp,swift,html,css&theme=dark)](https://skillicons.dev)
 
 ### Frameworks & Tools
 
-[![Tools](https://skillicons.dev/icons?i=react,git,github,maven,vite,vscode,idea&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,maven,vercel,vscode,idea,pycharm&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -82,8 +82,7 @@ A React and TypeScript course-planning tool with course editing, weekly timetabl
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yiyangbear&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="YY Bear's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiyangbear&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="YY Bear's most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yiyangbear&theme=tokyonight" alt="YY Bear's GitHub profile summary" />
 
 </div>
 
