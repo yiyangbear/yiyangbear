@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=190&section=header&text=Yiyang%20Xiong&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%40%20CUHK-Shenzhen&descAlignY=56&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=190&section=header&text=Yiyang%20Bear&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer/%20Computer%20Science/%20AI%20Science&descAlignY=56&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+software%2C+exploring+AI+%26+machine+learning;Learning+through+projects%2C+experiments%2C+and+iteration)](https://git.io/typing-svg)
 
@@ -14,11 +14,9 @@
 ## About Me
 
 ```text
-🎓 Computer Science undergraduate at CUHK-Shenzhen
 🤖 Interested in artificial intelligence and machine learning
 🧩 Enjoy building complete projects—from algorithms and models to usable interfaces
 🌱 Currently improving my software engineering, data science, and AI skills
-🎯 Goal: turn ideas into well-documented, reliable, and useful software
 ```
 
 I work mainly with **Java, Python, C++, and Swift**. I am especially interested in applying AI and machine learning to real problems while continuing to strengthen my foundations in algorithms and software design.
